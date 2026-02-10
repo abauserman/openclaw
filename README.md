@@ -1,2 +1,2 @@
 # openclaw
-OpenClaw deployment
+OpenClaw Assistant Google Integration
